@@ -1,50 +1,50 @@
+# Author: S Sandeep Pillai (github.com/Corruption13)
 import requests
 from bs4 import BeautifulSoup
 
-def is_valid_isbn(isbn):
+isbnum = 9780000000000      # Lowest possible number?
 
-    sum = 0
+
+def is_valid_isbn(isbn):        # Check if isbn number meets ISBN - Standards.
+
+    isbn_sum = 0
     if len(isbn) == 13:
 
         for i in range(13):
             if(i % 2 == 0):
-                sum = sum + int(isbn[i])  # asuming this is 0..9, not '0'..'9'
+                isbn_sum = isbn_sum + int(isbn[i])  # asuming this is 0..9, not '0'..'9'
 
             else:
-                sum = sum + int(isbn[i]) * 3
+                isbn_sum = isbn_sum + int(isbn[i]) * 3
 
-        if sum % 10 == 0:
+        if isbn_sum % 10 == 0:
             return True
 
 
     return False
 
-print(is_valid_isbn("9780000000000"))
-isbnum = 9788183225090
 
-
-
-def fcrawler(url):
-
-        print("URL = ", url)
+def fcrawler(url):      # Main function that scrapes the url provided.
 
         source = requests.get(url)
         source_code = source.text                           # BS4 stuff, ignore.
         soup = BeautifulSoup(source_code, "lxml")
 
-
         for item in soup.find_all("title"):
-            if(item.string!="Buy Products Online at Best Price in India - All Categories | Flipkart.com"):
+            if item.string[:21] != "Online Shopping India":             # IF so, then item DOES NOT EXIST
+                print("URL = ", url)
                 print("Name:: ", item.string)
                 for book in soup.find_all("li", {"class": "_2-riNZ"}):
                     print(book.string)
-        print('\n'*5)
+                print('\n'*3)
+
 
 def main():
-    for i in range(100):
+    for i in range(1000):
         if is_valid_isbn(str(isbnum + i)):
             url = "https://www.flipkart.com/placeholder/p/itmdytkfgwnuz7gt?pid=" + str(isbnum+i)
             fcrawler(url)
 
 
 main()
+
