@@ -1,3 +1,4 @@
+# Author: Pranav Shridhar (github.com/pranavmodx)
 import requests
 from bs4 import BeautifulSoup
 import time
@@ -5,12 +6,12 @@ import time
 
 def acrawler():
 
-    isbn = ["0345453743","1547291817"]
+    isbn = ["0345453743", "1547291817"]
 
     for i in range(len(isbn)):
 
         url = f"https://www.amazon.in/dp/{isbn[i]}"
-        print("URL = " , url)
+        print("URL = ", url)
         source = requests.get(url)
         source_code = source.text
         soup = BeautifulSoup(source_code, "lxml")
@@ -26,6 +27,7 @@ def acrawler():
         for li in elem.find_all('li')[0:5]:
             print(li.text)
 
-        time.sleep(20) # For reducing traffic
+        time.sleep(20)  # For reducing traffic
+
 
 acrawler()
