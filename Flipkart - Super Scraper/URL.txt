@@ -1,0 +1,15 @@
+Pages_to_Scrape_per_genre = 1	
+//Double Slash text is ignored!//
+//Insert your URL's to each Genre be crawled below!//
+
+https://www.flipkart.com/books/educational-and-professional-books/pr?sid=bks,enp&q=books&otracker=categorytree
+https://www.flipkart.com/books/fiction-nonfiction-books/pr?sid=bks,fnf&q=books&otracker=categorytree
+https://www.flipkart.com/books/reference-books/pr?sid=bks,gpr&q=books&otracker=categorytree
+https://www.flipkart.com/books/indian-writing-books/pr?sid=bks,97s&q=books&otracker=categorytree
+https://www.flipkart.com/books/selfhelp-books/pr?sid=bks,keq&q=books&otracker=categorytree
+https://www.flipkart.com/books/hobbies-interests-books/pr?sid=bks,xbg&q=books&otracker=categorytree
+https://www.flipkart.com/books/religion-spirituality-books/pr?sid=bks,b8u&q=books&otracker=categorytree
+https://www.flipkart.com/books/philosophy-books/pr?sid=bks,1zh&q=books&otracker=categorytree
+https://www.flipkart.com/books/families-and-relationships-books/pr?sid=bks,bjj&q=books&otracker=categorytree
+
+//Insert your URL's to be crawled above!//
