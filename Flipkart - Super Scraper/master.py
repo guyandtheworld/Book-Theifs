@@ -8,7 +8,7 @@ try:
     pages_to_scrape = int(page[28:])
 except:
     pages_to_scrape = 5
-    print("Please make a text file 'URL.txt' and add the URL you wish to scrape!"
+    print("Please make a text file 'URL.txt' and add the URL you wish to scrape!")
 
 
 if __name__ == '__main__':
