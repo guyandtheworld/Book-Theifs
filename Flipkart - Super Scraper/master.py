@@ -1,9 +1,13 @@
+# S Sandeep Pillai
 import flipkart
 import multiprocessing
 
 file = open("URL.txt", 'r')
 page = file.readline()
-pages_to_scrape = int(page[28:])
+try:
+    pages_to_scrape = int(page[28:])
+except:
+    pages_to_scrape = 5
 
 
 if __name__ == '__main__':
