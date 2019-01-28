@@ -1,49 +1,39 @@
 Title,Author,Rating,Reviews Count,URL,ISBN-10,Price,Binding
-"The Bookshop On The Corner (The Gingerbread Café) (The Bookshop series Book 1)",by Rebecca Raisin,3.8,127,https://www.amazon.in/Bookshop-Corner-Gingerbread-Caf%C3%A9-Book-ebook/dp/B00JBGZKJK,B00JBGZKJK,₹218.30,Kindle Edition
-"A Song of Ice and Fire - A Game of Thrones: The Complete Boxset of 7 Books",by George R R Martin,4.5,682,https://www.amazon.in/Song-Ice-Fire-Thrones-Complete/dp/0007477155,0007477155,₹2,390,Paperback
-"The Silent Corner (Jane Hawk Thriller)",by Dean Koontz,4.6,3,https://www.amazon.in/Silent-Corner-Jane-Hawk-Thriller/dp/0007518072,0007518072,₹389,Paperback
-"Red Line/Blue Line: Essays from the Editor's Corner",by Shawn MacKENZIE,,,https://www.amazon.in/Red-Line-Blue-Essays-Editors-ebook/dp/B00UW0869A,B00UW0869A,₹311.52,Kindle Edition
-"Heaven Around the Corner (Mills & Boon M&B) (Betty Neels Collection, Book 54)",by Betty Neels,5,1,https://www.amazon.in/Heaven-Around-Corner-Mills-Collection-ebook/dp/B0084733GO,B0084733GO,₹335.29,Kindle Edition
-"domino: Your Guide to a Stylish Home (DOMINO Books)",by Editors of domino,3.8,54,https://www.amazon.in/domino-Guide-Stylish-DOMINO-Books-ebook/dp/B01CO341M8,B01CO341M8,₹937.65,Kindle Edition
-"The Whispering Room (Jane Hawk Thriller, Book 2)",by Dean Koontz,4.6,917,https://www.amazon.in/Whispering-Room-Jane-Hawk-Thriller-ebook/dp/B072TSBDX9,B072TSBDX9,₹266.40,Kindle Edition
-"Divergent Series - 4 in 1",by Veronica Roth - Box set,4.7,98,https://www.amazon.in/Divergent-4-1-Veronica-Roth/dp/0007591373,0007591373,₹1,090,Paperback
-"The View from the Corner Shop: Diary of a Wartime Shop Assistant",by Kathleen Hey - Unabridged,,,https://www.amazon.in/View-Corner-Shop-Wartime-Assistant/dp/B07HDRGVYW,B07HDRGVYW,₹0,Audible Audiobook
-"Bang the Corner",by Louay Habib  1963 - 2005,,,https://www.amazon.in/Bang-Corner-Louay-Habib-1963-ebook/dp/B0755KTWFF,B0755KTWFF,₹191,Kindle Edition
-"The Law School Personal Statement Handbook: The Definitive Guide to Writing Your...",by Barzin Pakandam,5,4,https://www.amazon.in/Law-School-Personal-Statement-Handbook-ebook/dp/B01LTGV6BK,B01LTGV6BK,₹1,892,Kindle Edition
-"A Poem Standing On The Corner: Poetry",by PAULO MORAES,,,https://www.amazon.in/Poem-Standing-Corner-Poetry-ebook/dp/B06XX7Z472,B06XX7Z472,₹99,Kindle Edition
-"The World of Ice and Fire (Song of Ice & Fire)",by George R.R. Martin,4.5,68,https://www.amazon.in/World-Ice-Fire-Song/dp/0007580916,0007580916,₹1,247,Hardcover
-"Bad Man's Corner: Cameraman in a Liberian War",by Alistair Lyne,4.6,3,https://www.amazon.in/Bad-Mans-Corner-Cameraman-Liberian-ebook/dp/B00W7E27LC,B00W7E27LC,₹514.48,Kindle Edition
-"In My Corner",by Susan O'Brien Fischer,4.8,9,https://www.amazon.in/My-Corner-Susan-OBrien-Fischer-ebook/dp/B005PA9GI2,B005PA9GI2,₹195.88,Kindle Edition
-"The Failure Project: The Story of Man's Greatest Fear",by Kochhar,4.1,8,https://www.amazon.in/Failure-Project-Story-Mans-Greatest/dp/9352015789,9352015789,₹231,Paperback
-"On Editing: How to edit your novel the professional way (Teach Yourself Creative...",by Helen Corner-Bryant,5,1,https://www.amazon.in/Editing-professional-Yourself-Creative-Writing-ebook/dp/B07C2BXD5Q,B07C2BXD5Q,₹651,Kindle Edition
+The Bookshop On The Corner (The Gingerbread Café) (The Bookshop series Book 1),by Rebecca Raisin,3.8,127.0,https://www.amazon.in/Bookshop-Corner-Gingerbread-Caf%C3%A9-Book-ebook/dp/B00JBGZKJK,B00JBGZKJK,₹218.30,Kindle Edition
+The Silent Corner (Jane Hawk Thriller),by Dean Koontz,4.6,3.0,https://www.amazon.in/Silent-Corner-Jane-Hawk-Thriller/dp/0007518072,0007518072,₹389,Paperback
+Red Line/Blue Line: Essays from the Editor's Corner,by Shawn MacKENZIE,,,https://www.amazon.in/Red-Line-Blue-Essays-Editors-ebook/dp/B00UW0869A,B00UW0869A,₹311.52,Kindle Edition
+"Heaven Around the Corner (Mills & Boon M&B) (Betty Neels Collection, Book 54)",by Betty Neels,5.0,1.0,https://www.amazon.in/Heaven-Around-Corner-Mills-Collection-ebook/dp/B0084733GO,B0084733GO,₹335.29,Kindle Edition
+domino: Your Guide to a Stylish Home (DOMINO Books),by Editors of domino,3.8,54.0,https://www.amazon.in/domino-Guide-Stylish-DOMINO-Books-ebook/dp/B01CO341M8,B01CO341M8,₹937.65,Kindle Edition
+"The Whispering Room (Jane Hawk Thriller, Book 2)",by Dean Koontz,4.6,917.0,https://www.amazon.in/Whispering-Room-Jane-Hawk-Thriller-ebook/dp/B072TSBDX9,B072TSBDX9,₹266.40,Kindle Edition
+The View from the Corner Shop: Diary of a Wartime Shop Assistant,by Kathleen Hey - Unabridged,,,https://www.amazon.in/View-Corner-Shop-Wartime-Assistant/dp/B07HDRGVYW,B07HDRGVYW,₹0,Audible Audiobook
+Bang the Corner,by Louay Habib  1963 - 2005,,,https://www.amazon.in/Bang-Corner-Louay-Habib-1963-ebook/dp/B0755KTWFF,B0755KTWFF,₹191,Kindle Edition
+A Poem Standing On The Corner: Poetry,by PAULO MORAES,,,https://www.amazon.in/Poem-Standing-Corner-Poetry-ebook/dp/B06XX7Z472,B06XX7Z472,₹99,Kindle Edition
+Bad Man's Corner: Cameraman in a Liberian War,by Alistair Lyne,4.6,3.0,https://www.amazon.in/Bad-Mans-Corner-Cameraman-Liberian-ebook/dp/B00W7E27LC,B00W7E27LC,₹514.48,Kindle Edition
+In My Corner,by Susan O'Brien Fischer,4.8,9.0,https://www.amazon.in/My-Corner-Susan-OBrien-Fischer-ebook/dp/B005PA9GI2,B005PA9GI2,₹195.88,Kindle Edition
+The Failure Project: The Story of Man's Greatest Fear,by Kochhar,4.1,8.0,https://www.amazon.in/Failure-Project-Story-Mans-Greatest/dp/9352015789,9352015789,₹231,Paperback
+On Editing: How to edit your novel the professional way (Teach Yourself Creative...,by Helen Corner-Bryant,5.0,1.0,https://www.amazon.in/Editing-professional-Yourself-Creative-Writing-ebook/dp/B07C2BXD5Q,B07C2BXD5Q,₹651,Kindle Edition
 "THE MOTIVATIONAL LIFE OF RUDYARD KIPLING: Rudyard Kipling Poet, Writer, Journalist...",by Readers Corner,,,https://www.amazon.in/MOTIVATIONAL-LIFE-RUDYARD-KIPLING-Journalist-ebook/dp/B07JV8K92P,B07JV8K92P,₹49,Kindle Edition
-"The World's Greatest Short Stories (Dover Thrift Editions)",by James Daley,4.3,81,https://www.amazon.in/Worlds-Greatest-Stories-Thrift-Editions-ebook/dp/B00A735JPG,B00A735JPG,₹185.95,Kindle Edition
-"Assembly Language Step by Step: Programming with Linux, 3ed",by Jeff Duntemann,4.6,6,https://www.amazon.in/Assembly-Language-Step-Programming-Linux/dp/8126524111,8126524111,₹632,Paperback
-"Fantastic Stories of the Imagination #224: January 2015",by Krystal Claxton,,,https://www.amazon.in/Fantastic-Stories-Imagination-224-January-ebook/dp/B00TJXK98C,B00TJXK98C,₹154.53,Kindle Edition
-"The Lunar Chronicles - Scarlet",by Marissa Meyer,4,24,https://www.amazon.in/Lunar-Chronicles-Scarlet-Marissa-Meyer/dp/0141340231,0141340231,₹284,Paperback
-"Referencer for Central Government Employees",by Nabhi`s Board of Editors,5,1,https://www.amazon.in/Referencer-Central-Government-Employees-Nabhi/dp/8172748213,8172748213,₹320,Paperback
-"Betwixt Twists and Turns: A Potpourri of Short Stories",by Mona Mohanty,4.3,61,https://www.amazon.in/Betwixt-Twists-Turns-Potpourri-Stories/dp/1482874172,1482874172,₹299,Paperback
-"The Mammoth Book of Ghost Stories by Women (Mammoth Books)",by Marie O'Regan,3,1,https://www.amazon.in/Mammoth-Ghost-Stories-Women-Books/dp/1780330243,1780330243,,Paperback
-"Sunrise Satin Journal",by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Sunrise-Satin-Journal-Editors-Thunder/dp/1684127300,1684127300,,Hardcover
-"Pink Fabric Journal",by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Fabric-Journal-Editors-Thunder-Press/dp/1684127297,1684127297,,Hardcover
-"Sky Blue Satin Journal",by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Satin-Journal-Editors-Thunder-Press/dp/1684127289,1684127289,,Hardcover
-"Rainbow Satin Journal",by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Rainbow-Satin-Journal-Editors-Thunder/dp/1684127270,1684127270,,Hardcover
-"Orange Striped Fabric Journal",by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Orange-Striped-Journal-Editors-Thunder/dp/1684127262,1684127262,,Hardcover
-"Citrus Satin Journal",by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Citrus-Satin-Journal-Editors-Thunder/dp/1684127254,1684127254,,Hardcover
-"Yellow Linen Journal",by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Yellow-Linen-Journal-Editors-Thunder/dp/1684127246,1684127246,,Hardcover
-"Succulent Linen Journal",by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Succulent-Linen-Journal-Editors-Thunder/dp/168412722X,168412722X,,Hardcover
-"Pastel Striped Linen Journal",by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Pastel-Striped-Journal-Editors-Thunder/dp/168412719X,168412719X,,Hardcover
-"Chthonic: Weird Tales of Inner Earth",by Scott R Jones - Import,4,1,https://www.amazon.in/Chthonic-Weird-Tales-Inner-Earth/dp/1927673259,1927673259,₹499,Paperback
-"An Editor's Corner: Reflections on How Dentistry Is Changing",by Neil Stewart McLeod - Import,,,https://www.amazon.in/Editors-Corner-Reflections-Dentistry-Changing/dp/1720369291,1720369291,₹950,Paperback
-"Green Tile Linen Journal",by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Green-Linen-Journal-Editors-Thunder/dp/1684127211,1684127211,,Hardcover
-"Green Linen Journal",by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Green-Linen-Journal-Editors-Thunder/dp/1684127203,1684127203,,Hardcover
-"Riverstones: A Novel",by Koto Neelima,4,1,https://www.amazon.in/Riverstones-Novel-Koto-Neelima/dp/8167330168,8167330168,₹250,Paperback
-"Black & Decker The Book of Home How-To: The Complete Photo Guide to Home Repair...",by Editors of Cool Springs Press - Import,4.3,70,https://www.amazon.in/Black-Decker-Book-Home-How/dp/1591865980,1591865980,₹2,268,Hardcover
-"Tribal Satin Journal (Thunder Bay Journals)",by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Tribal-Satin-Journal-Thunder-Journals/dp/1684125278,1684125278,₹1,620.75,Hardcover
-"Notes from the Editor's Corner of Cath Lab Digest",by Morton J. Kern - Import,,,https://www.amazon.in/Notes-Editors-Corner-Cath-Digest/dp/1453711031,1453711031,,Paperback
-"Learning Opportunities for Adults",by Trevor Corner,,,https://www.amazon.in/Learning-Opportunities-Adults-Trevor-Corner-ebook/dp/B000FA5Z6Y,B000FA5Z6Y,₹3,107.45,Kindle Edition
-"Explore america: back roads and hidden corners (Reader's Digest Explore America)",by Editors of Reader's Digest - Import,3,3,https://www.amazon.in/Explore-america-corners-Readers-America/dp/089577545X,089577545X,₹1,731.32,Hardcover
-"Mountain Bike Magazine's Complete Guide To Mountain Biking Skills: Expert Tips...",by Mountain Bike Magazine Editors - Import,3.7,20,https://www.amazon.in/Mountain-Magazines-Complete-Biking-Skills/dp/0875963005,0875963005,,Paperback
-"Arabesque Satin Journal (Thunder Bay Journals)",by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Arabesque-Satin-Journal-Thunder-Journals/dp/1684125286,1684125286,₹1,568,Hardcover
-"Patterned Satin Journal (Thunder Bay Journals)",by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Patterned-Satin-Journal-Thunder-Journals/dp/1684124913,1684124913,₹920.25,Hardcover
-"Floral Satin Journal (Thunder Bay Journals)",by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Floral-Satin-Journal-Thunder-Journals/dp/1684124905,1684124905,₹1,867,Hardcover
+The World's Greatest Short Stories (Dover Thrift Editions),by James Daley,4.3,81.0,https://www.amazon.in/Worlds-Greatest-Stories-Thrift-Editions-ebook/dp/B00A735JPG,B00A735JPG,₹185.95,Kindle Edition
+"Assembly Language Step by Step: Programming with Linux, 3ed",by Jeff Duntemann,4.6,6.0,https://www.amazon.in/Assembly-Language-Step-Programming-Linux/dp/8126524111,8126524111,₹632,Paperback
+Fantastic Stories of the Imagination #224: January 2015,by Krystal Claxton,,,https://www.amazon.in/Fantastic-Stories-Imagination-224-January-ebook/dp/B00TJXK98C,B00TJXK98C,₹154.53,Kindle Edition
+The Lunar Chronicles - Scarlet,by Marissa Meyer,4.0,24.0,https://www.amazon.in/Lunar-Chronicles-Scarlet-Marissa-Meyer/dp/0141340231,0141340231,₹284,Paperback
+Referencer for Central Government Employees,by Nabhi`s Board of Editors,5.0,1.0,https://www.amazon.in/Referencer-Central-Government-Employees-Nabhi/dp/8172748213,8172748213,₹320,Paperback
+Betwixt Twists and Turns: A Potpourri of Short Stories,by Mona Mohanty,4.3,61.0,https://www.amazon.in/Betwixt-Twists-Turns-Potpourri-Stories/dp/1482874172,1482874172,₹299,Paperback
+The Mammoth Book of Ghost Stories by Women (Mammoth Books),by Marie O'Regan,3.0,1.0,https://www.amazon.in/Mammoth-Ghost-Stories-Women-Books/dp/1780330243,1780330243,,Paperback
+Sunrise Satin Journal,by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Sunrise-Satin-Journal-Editors-Thunder/dp/1684127300,1684127300,,Hardcover
+Pink Fabric Journal,by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Fabric-Journal-Editors-Thunder-Press/dp/1684127297,1684127297,,Hardcover
+Sky Blue Satin Journal,by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Satin-Journal-Editors-Thunder-Press/dp/1684127289,1684127289,,Hardcover
+Rainbow Satin Journal,by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Rainbow-Satin-Journal-Editors-Thunder/dp/1684127270,1684127270,,Hardcover
+Orange Striped Fabric Journal,by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Orange-Striped-Journal-Editors-Thunder/dp/1684127262,1684127262,,Hardcover
+Citrus Satin Journal,by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Citrus-Satin-Journal-Editors-Thunder/dp/1684127254,1684127254,,Hardcover
+Yellow Linen Journal,by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Yellow-Linen-Journal-Editors-Thunder/dp/1684127246,1684127246,,Hardcover
+Succulent Linen Journal,by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Succulent-Linen-Journal-Editors-Thunder/dp/168412722X,168412722X,,Hardcover
+Pastel Striped Linen Journal,by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Pastel-Striped-Journal-Editors-Thunder/dp/168412719X,168412719X,,Hardcover
+Chthonic: Weird Tales of Inner Earth,by Scott R Jones - Import,4.0,1.0,https://www.amazon.in/Chthonic-Weird-Tales-Inner-Earth/dp/1927673259,1927673259,₹499,Paperback
+An Editor's Corner: Reflections on How Dentistry Is Changing,by Neil Stewart McLeod - Import,,,https://www.amazon.in/Editors-Corner-Reflections-Dentistry-Changing/dp/1720369291,1720369291,₹950,Paperback
+Green Tile Linen Journal,by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Green-Linen-Journal-Editors-Thunder/dp/1684127211,1684127211,,Hardcover
+Green Linen Journal,by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Green-Linen-Journal-Editors-Thunder/dp/1684127203,1684127203,,Hardcover
+Riverstones: A Novel,by Koto Neelima,4.0,1.0,https://www.amazon.in/Riverstones-Novel-Koto-Neelima/dp/8167330168,8167330168,₹250,Paperback
+Notes from the Editor's Corner of Cath Lab Digest,by Morton J. Kern - Import,,,https://www.amazon.in/Notes-Editors-Corner-Cath-Digest/dp/1453711031,1453711031,,Paperback
+Mountain Bike Magazine's Complete Guide To Mountain Biking Skills: Expert Tips...,by Mountain Bike Magazine Editors - Import,3.7,20.0,https://www.amazon.in/Mountain-Magazines-Complete-Biking-Skills/dp/0875963005,0875963005,,Paperback
+Patterned Satin Journal (Thunder Bay Journals),by Editors of Thunder Bay Press - Import,,,https://www.amazon.in/Patterned-Satin-Journal-Thunder-Journals/dp/1684124913,1684124913,₹920.25,Hardcover

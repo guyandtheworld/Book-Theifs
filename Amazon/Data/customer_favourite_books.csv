@@ -1,53 +1,37 @@
 Title,Author,Rating,Reviews Count,URL,ISBN-10,Price,Binding
-"EMERGENCY KI INSIDE STORY (Hindi Edition)",by KULDIP NAYAR,3.9,14,https://www.amazon.in/EMERGENCY-KI-INSIDE-STORY-Hindi-ebook/dp/B075429JPR,B075429JPR,₹29,Kindle Edition
-"Diary of A Wimpy Kid: The Meltdown (Book 13) (Diary of a Wimpy Kid 13)",by Jeff Kinney,4.7,297,https://www.amazon.in/Diary-Wimpy-Kid-Meltdown-Book/dp/0141378204,0141378204,₹248,Hardcover
-"Romanchak Vigyan Kathayen  (Hindi)",by Jayant Vishnu Narlikar,4,3,https://www.amazon.in/Romanchak-Vigyan-Kathayen-Jayant-Narlikar-ebook/dp/B01MPYB0XX,B01MPYB0XX,₹51.45,Kindle Edition
-"The Happiness Advantage: The Seven Principles of Positive Psychology that Fuel...",by Shawn Achor,4.4,29,https://www.amazon.in/Happiness-Advantage-Principles-Psychology-Performance-ebook/dp/B005L193RO,B005L193RO,₹296.80,Kindle Edition
-"Origin (Robert Langdon)",by Dan Brown,4,1184,https://www.amazon.in/Origin-Robert-Langdon-Dan-Brown/dp/0552174165,0552174165,₹215,Paperback
-"Harry Potter and the Goblet of Fire (Harry Potter 4)",by J.K. Rowling,4.7,322,https://www.amazon.in/Harry-Potter-Goblet-Fire/dp/1408855682,1408855682,₹524,Paperback
-"AZIM PREMJI",by Prem Prakash,3.1,5,https://www.amazon.in/AZIM-PREMJI-Prem-Prakash-ebook/dp/B01FAWGJEI,B01FAWGJEI,₹15.75,Kindle Edition
-"Revolution Twenty 20: Love. Corruption. Ambition",by Chetan Bhagat,4.4,1058,https://www.amazon.in/Revolution-Twenty-20-Corruption-Ambition/dp/8129135531,8129135531,,Paperback
-"Just Breathe",by Radhika Vachani,3.7,5,https://www.amazon.in/Just-Breathe-Radhika-Vachani-ebook/dp/B071X951QK,B071X951QK,₹180.50,Kindle Edition
-"Julia Donaldson x10 Ziplock Pack 2015",by Julia Donaldson,4.8,193,https://www.amazon.in/Julia-Donaldson-Ziplock-Pack-2015/dp/1509801251,1509801251,₹1,299,Paperback
-"Amazon Pay Gift Card - In a Black Box",by Amazon Pay,4.3,630,https://www.amazon.in/Amazon-Pay-Black-Gift-Card/dp/B00PQ6ZEC2,B00PQ6ZEC2,₹1,000 - ₹10,000,
-"Uniball Eye Roller Pen 157 (Set Of 10 )",by Uniball,4.1,116,https://www.amazon.in/Uniball-Eye-Roller-Pen-157/dp/B01CR74V8K,B01CR74V8K,₹548,
-"MoArmouz USB-C to HDMI Adapter Thunderbolt 3 Compatible with MacBook Pro 2018...",by MoArmouz,4.9,15,https://www.amazon.in/MoArmouz-Adapter-Thunderbolt-compatible-Chromebook/dp/B07955L778,B07955L778,₹2,999,
-"American Micronic- AMI-AF1-35CLDx- 3.5 Liters 1500 Watts Imported Air Fryer (...",by AMERICAN MICRONIC,4.3,212,https://www.amazon.in/American-Micronic-AMI-AF1-35CLDx-Liters-Silver/dp/B00VNV3LBU,B00VNV3LBU,₹5,780,
-"Prestige POTG 19L 41463 1380-Watt Oven Toaster Grill ,Red",by Prestige,3.9,117,https://www.amazon.in/Prestige-41463-1380-Watt-Toaster-Grill/dp/B01H8HB05G,B01H8HB05G,₹3,644,
-"Strathmore 300 Series Bristol Smooth 9''x12'' Extra White Smooth 270 GSM Paper...",by Strathmore,5,6,https://www.amazon.in/Strathmore-Bristol-Smooth-Short-Side-Sheets/dp/B01N9SN7YW,B01N9SN7YW,₹625,
-"All-New Kindle Paperwhite 4G LTE (10th gen) - 6" High Resolution Display with...",by Amazon,4.1,112,https://www.amazon.in/All-New-Kindle-Paperwhite-10th-Built/dp/B077498K1F,B077498K1F,₹17,999,
-"THE LIFE AND TIMES OF MADAME CURIE",by VINOD KUMAR MISHRA,4,2,https://www.amazon.in/LIFE-TIMES-MADAME-CURIE-ebook/dp/B01F8P8QZM,B01F8P8QZM,₹51.45,Kindle Edition
+EMERGENCY KI INSIDE STORY (Hindi Edition),by KULDIP NAYAR,3.9,14,https://www.amazon.in/EMERGENCY-KI-INSIDE-STORY-Hindi-ebook/dp/B075429JPR,B075429JPR,₹29,Kindle Edition
+Diary of A Wimpy Kid: The Meltdown (Book 13) (Diary of a Wimpy Kid 13),by Jeff Kinney,4.7,297,https://www.amazon.in/Diary-Wimpy-Kid-Meltdown-Book/dp/0141378204,0141378204,₹248,Hardcover
+Romanchak Vigyan Kathayen  (Hindi),by Jayant Vishnu Narlikar,4.0,3,https://www.amazon.in/Romanchak-Vigyan-Kathayen-Jayant-Narlikar-ebook/dp/B01MPYB0XX,B01MPYB0XX,₹51.45,Kindle Edition
+The Happiness Advantage: The Seven Principles of Positive Psychology that Fuel...,by Shawn Achor,4.4,29,https://www.amazon.in/Happiness-Advantage-Principles-Psychology-Performance-ebook/dp/B005L193RO,B005L193RO,₹296.80,Kindle Edition
+Origin (Robert Langdon),by Dan Brown,4.0,1184,https://www.amazon.in/Origin-Robert-Langdon-Dan-Brown/dp/0552174165,0552174165,₹215,Paperback
+Harry Potter and the Goblet of Fire (Harry Potter 4),by J.K. Rowling,4.7,322,https://www.amazon.in/Harry-Potter-Goblet-Fire/dp/1408855682,1408855682,₹524,Paperback
+AZIM PREMJI,by Prem Prakash,3.1,5,https://www.amazon.in/AZIM-PREMJI-Prem-Prakash-ebook/dp/B01FAWGJEI,B01FAWGJEI,₹15.75,Kindle Edition
+Revolution Twenty 20: Love. Corruption. Ambition,by Chetan Bhagat,4.4,1058,https://www.amazon.in/Revolution-Twenty-20-Corruption-Ambition/dp/8129135531,8129135531,,Paperback
+Just Breathe,by Radhika Vachani,3.7,5,https://www.amazon.in/Just-Breathe-Radhika-Vachani-ebook/dp/B071X951QK,B071X951QK,₹180.50,Kindle Edition
+Uniball Eye Roller Pen 157 (Set Of 10 ),by Uniball,4.1,116,https://www.amazon.in/Uniball-Eye-Roller-Pen-157/dp/B01CR74V8K,B01CR74V8K,₹548,
+Strathmore 300 Series Bristol Smooth 9''x12'' Extra White Smooth 270 GSM Paper...,by Strathmore,5.0,6,https://www.amazon.in/Strathmore-Bristol-Smooth-Short-Side-Sheets/dp/B01N9SN7YW,B01N9SN7YW,₹625,
+THE LIFE AND TIMES OF MADAME CURIE,by VINOD KUMAR MISHRA,4.0,2,https://www.amazon.in/LIFE-TIMES-MADAME-CURIE-ebook/dp/B01F8P8QZM,B01F8P8QZM,₹51.45,Kindle Edition
 "iBall Slide Performance Series 7236 2G Tablet (7 inch,4GB, Wi-Fi+2G+ Voice Calling...",by iBall,3.4,252,https://www.amazon.in/iBall-Performance-7236-2G-Calling/dp/B00HYQNNDO,B00HYQNNDO,,
-"Till The Last Breath . . .",by Durjoy Datta,4.4,349,https://www.amazon.in/Till-Last-Breath/dp/0143421573,0143421573,₹121,Paperback
-"What The Customer Wants You To Know",by Ram Charan,4.8,8,https://www.amazon.in/What-Customer-Wants-You-Know/dp/0143065688,0143065688,₹160,Paperback
-"SToK Air Fryer 2.6 Litre 1350-Watt with Smart Rapid Air Technology & Double Layer...",by SToK,4.2,114,https://www.amazon.in/Fryer-Litre-1350-Watt-Technology-Double/dp/B01M0180N1,B01M0180N1,₹3,699,
-"Principles of Physics, 10ed, ISV",by Jearl Walker, David Halliday, Robert Resnick,4.4,270,https://www.amazon.in/Principles-Physics-Halliday-Robert-Resnick/dp/8126552565,8126552565,₹697,Paperback
-"Wonderchef Blueberry Induction Base Aluminium Cookware Set, 3-Pieces, Blue",by Wonderchef,3.4,138,https://www.amazon.in/Wonderchef-Blueberry-Induction-Aluminium-Cookware/dp/B01A6P7HLI,B01A6P7HLI,₹1,944,
-"Crush It! Why Now is the Time to Cash in on Your Passion",by Gary Vaynerchuk,4.3,69,https://www.amazon.in/Crush-Time-Cash-Your-Passion/dp/0062295020,0062295020,₹179,Paperback
-"The Secret (Gujarati)",by Rhonda Byrne,4.6,168,https://www.amazon.in/Secret-Gujarati-Rhonda-Byrne/dp/818322198X,818322198X,₹328,Paperback
-"Divergent Series - 4 in 1",by Veronica Roth - Box set,4.7,98,https://www.amazon.in/Divergent-4-1-Veronica-Roth/dp/0007591373,0007591373,₹1,090,Paperback
-"The Hunger Games Movie-Tie in-Edition",by Suzanne Collins,4.5,245,https://www.amazon.in/Hunger-Games-Movie-Tie/dp/9351035964,9351035964,₹260,Paperback
-"Kindle Oasis - 7" High Resolution Display, Waterproof, 8 GB, WiFi",by Amazon,4,146,https://www.amazon.in/Kindle-Oasis-Resolution-Display-Waterproof/dp/B06XDBNSCP,B06XDBNSCP,₹21,999,
-"Peaks and Valleys",by Spencer Johnson,4.4,28,https://www.amazon.in/Peaks-Valleys-Spencer-Johnson/dp/1847396488,1847396488,₹109,Paperback
-"Sherlock Holmes: The Complete Novels and Stories - Vol. 1",by Sir Arthur Conan Doyle,4.3,226,https://www.amazon.in/Sherlock-Holmes-Complete-Novels-Stories/dp/0553212419,0553212419,₹260,Paperback
-"World's Best Boyfriend",by Durjoy Datta,4.1,962,https://www.amazon.in/Worlds-Best-Boyfriend-Durjoy-Datta/dp/0143424637,0143424637,₹166,Paperback
-"Morphy Richards OTG Besta 40-Litre Oven Toaster Grill (Black)",by Morphy Richards,3.6,17,https://www.amazon.in/Morphy-Richards-OTG-Besta-40-Litre/dp/B071X8N9Z9,B071X8N9Z9,₹9,499,
-"Teach Yourself Quantitative Aptitude",by Arun Sharma,3.6,21,https://www.amazon.in/Teach-Yourself-Quantitative-Aptitude-Sharma/dp/9352606353,9352606353,₹258,Paperback
-"Feluda Samagra Vol. I & II",by Satyajit Ray,4.4,83,https://www.amazon.in/Feluda-Samagra-Vol-I-II/dp/8177564803,8177564803,₹1,000,Hardcover
-"Marketing Chronicles: A Compendium of Global and Local Marketing Insights from...",by Nimish V Dwivedi - Import,4.8,63,https://www.amazon.in/Marketing-Chronicles-Compendium-Pre-Smartphone-Post-Smartphone/dp/1947949152,1947949152,₹135,Paperback
-"Attitude Is Everything (Pentagon Press)",by Jeff Keller,4.3,40,https://www.amazon.in/Attitude-Everything-Pentagon-Press-Keller/dp/8182747252,8182747252,₹166,Paperback
-"The Dilbert Principle",by Scott Adams,4.5,14,https://www.amazon.in/Dilbert-Principle-Scott-Adams/dp/0752224700,0752224700,₹150,Paperback
-"Rashmirathi",by Ramdhari Singh Dinkar,4.7,232,https://www.amazon.in/Rashmirathi-Ramdhari-Singh-Dinkar/dp/8180313638,8180313638,₹140,Paperback
-"LEGO (R) DC Comics Super Heroes: Enter the Dark Knight (Activity Book with Batman...",by Egmont Publishing UK,5,2,https://www.amazon.in/LEGO-Comics-Super-Heroes-minifigure/dp/1405285710,1405285710,₹319,Paperback
-"Shanku Samagra",by Satyajit Ray,4.6,57,https://www.amazon.in/Shanku-Samagra-Satyajit-Ray/dp/8177562320,8177562320,,Hardcover
-"Midnight at the Bright Ideas Bookstore",by Matthew Sullivan,4.5,2,https://www.amazon.in/Midnight-at-Bright-Ideas-Bookstore/dp/1785151436,1785151436,₹389,Paperback
-"Journey Under the Midnight Sun",by Keigo Higashino,3.9,62,https://www.amazon.in/Journey-Under-Midnight-Keigo-Higashino/dp/0349138745,0349138745,₹399,Paperback
-"YU Tempered Glass Screen Protector for Yuphoria YU5010",by YU,2.9,327,https://www.amazon.in/YU-Tempered-Screen-Protector-Yuphoria/dp/B010PU4NKW,B010PU4NKW,,
-"Oitihasik Kahini Samagra",by Sharadindu Bandyopadhyay,4.7,19,https://www.amazon.in/Oitihasik-Kahini-Samagra-Sharadindu-Bandyopadhyay/dp/8172156146,8172156146,,Hardcover
+Till The Last Breath . . .,by Durjoy Datta,4.4,349,https://www.amazon.in/Till-Last-Breath/dp/0143421573,0143421573,₹121,Paperback
+What The Customer Wants You To Know,by Ram Charan,4.8,8,https://www.amazon.in/What-Customer-Wants-You-Know/dp/0143065688,0143065688,₹160,Paperback
+Crush It! Why Now is the Time to Cash in on Your Passion,by Gary Vaynerchuk,4.3,69,https://www.amazon.in/Crush-Time-Cash-Your-Passion/dp/0062295020,0062295020,₹179,Paperback
+The Secret (Gujarati),by Rhonda Byrne,4.6,168,https://www.amazon.in/Secret-Gujarati-Rhonda-Byrne/dp/818322198X,818322198X,₹328,Paperback
+The Hunger Games Movie-Tie in-Edition,by Suzanne Collins,4.5,245,https://www.amazon.in/Hunger-Games-Movie-Tie/dp/9351035964,9351035964,₹260,Paperback
+Peaks and Valleys,by Spencer Johnson,4.4,28,https://www.amazon.in/Peaks-Valleys-Spencer-Johnson/dp/1847396488,1847396488,₹109,Paperback
+Sherlock Holmes: The Complete Novels and Stories - Vol. 1,by Sir Arthur Conan Doyle,4.3,226,https://www.amazon.in/Sherlock-Holmes-Complete-Novels-Stories/dp/0553212419,0553212419,₹260,Paperback
+World's Best Boyfriend,by Durjoy Datta,4.1,962,https://www.amazon.in/Worlds-Best-Boyfriend-Durjoy-Datta/dp/0143424637,0143424637,₹166,Paperback
+Teach Yourself Quantitative Aptitude,by Arun Sharma,3.6,21,https://www.amazon.in/Teach-Yourself-Quantitative-Aptitude-Sharma/dp/9352606353,9352606353,₹258,Paperback
+Marketing Chronicles: A Compendium of Global and Local Marketing Insights from...,by Nimish V Dwivedi - Import,4.8,63,https://www.amazon.in/Marketing-Chronicles-Compendium-Pre-Smartphone-Post-Smartphone/dp/1947949152,1947949152,₹135,Paperback
+Attitude Is Everything (Pentagon Press),by Jeff Keller,4.3,40,https://www.amazon.in/Attitude-Everything-Pentagon-Press-Keller/dp/8182747252,8182747252,₹166,Paperback
+The Dilbert Principle,by Scott Adams,4.5,14,https://www.amazon.in/Dilbert-Principle-Scott-Adams/dp/0752224700,0752224700,₹150,Paperback
+Rashmirathi,by Ramdhari Singh Dinkar,4.7,232,https://www.amazon.in/Rashmirathi-Ramdhari-Singh-Dinkar/dp/8180313638,8180313638,₹140,Paperback
+LEGO (R) DC Comics Super Heroes: Enter the Dark Knight (Activity Book with Batman...,by Egmont Publishing UK,5.0,2,https://www.amazon.in/LEGO-Comics-Super-Heroes-minifigure/dp/1405285710,1405285710,₹319,Paperback
+Shanku Samagra,by Satyajit Ray,4.6,57,https://www.amazon.in/Shanku-Samagra-Satyajit-Ray/dp/8177562320,8177562320,,Hardcover
+Midnight at the Bright Ideas Bookstore,by Matthew Sullivan,4.5,2,https://www.amazon.in/Midnight-at-Bright-Ideas-Bookstore/dp/1785151436,1785151436,₹389,Paperback
+Journey Under the Midnight Sun,by Keigo Higashino,3.9,62,https://www.amazon.in/Journey-Under-Midnight-Keigo-Higashino/dp/0349138745,0349138745,₹399,Paperback
+YU Tempered Glass Screen Protector for Yuphoria YU5010,by YU,2.9,327,https://www.amazon.in/YU-Tempered-Screen-Protector-Yuphoria/dp/B010PU4NKW,B010PU4NKW,,
+Oitihasik Kahini Samagra,by Sharadindu Bandyopadhyay,4.7,19,https://www.amazon.in/Oitihasik-Kahini-Samagra-Sharadindu-Bandyopadhyay/dp/8172156146,8172156146,,Hardcover
 "Floral Tiles Design White Border 8x12 Tray - Kitchen, Dining, Serving & Desk...",by Brahma Design,3.8,18,https://www.amazon.in/Floral-Tiles-Design-White-Border/dp/B07G18G5L6,B07G18G5L6,₹990,
-"Everyone Has A Story (Author Signed Limited Edition)",by Savi Sharma,4.3,24,https://www.amazon.in/Everyone-Story-Author-Signed-Limited/dp/B071GB3SVX,B071GB3SVX,,Paperback
-"Taming Tigers: Do things you never thought you could",by Jim Lawless,5,1,https://www.amazon.in/Taming-Tigers-things-never-thought/dp/0753539918,0753539918,,Paperback
-"Dish TV HD (Free Recorder) Set Top Box with Recording + 1 Month Subscription...",by Dish TV,4,422,https://www.amazon.in/Dish-TV-Recorder-Recording-Subscription/dp/B00MXCM0P6,B00MXCM0P6,₹1,560,
-"Floral Tiles Design White Border 10x14 Tray - Kitchen, Dining, Serving & Desk...",by Brahma Design,3.3,3,https://www.amazon.in/Floral-Tiles-Design-White-Border/dp/B07G19JZW7,B07G19JZW7,₹1,290,
+Everyone Has A Story (Author Signed Limited Edition),by Savi Sharma,4.3,24,https://www.amazon.in/Everyone-Story-Author-Signed-Limited/dp/B071GB3SVX,B071GB3SVX,,Paperback
+Taming Tigers: Do things you never thought you could,by Jim Lawless,5.0,1,https://www.amazon.in/Taming-Tigers-things-never-thought/dp/0753539918,0753539918,,Paperback
 "Floral Tiles Design White Border 9x9 Tray - Kitchen, Dining, Serving & Desk Tray...",by Brahma Design,4.3,12,https://www.amazon.in/Floral-Tiles-Design-White-Border/dp/B07G1BBV4W,B07G1BBV4W,₹920,
-"Brahma Design Floral Tiles with White Border",by Brahma Design,5,1,https://www.amazon.in/Brahma-Design-Floral-Tiles-Border/dp/B07G1BLQT6,B07G1BLQT6,₹1,190,
